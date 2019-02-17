@@ -1,5 +1,5 @@
 # response
-기본적인 response.js 내용
+기본적인 response.js 내용 (API 통일 전, [젤브봇](https://play.google.com/store/apps/details?id=be.zvz.newskbot) 기준)
 
 
 
